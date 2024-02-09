@@ -1,8 +1,11 @@
 Pseudo code for rock,paper,scissors:
 
 // Step 1: Create a blank HTML document with a script tag
+
 // Step 2: Welcome text/ animation
+
 // Step3:  Navigation function to start the game or exit
+
 // Step 4: Define a function to get computer's play
 		—>Generate a random number between 0 and 2
 		—>Assign 'Rock', 'Paper', or 'Scissors' based on the random number
