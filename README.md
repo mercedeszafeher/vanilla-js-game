@@ -19,4 +19,4 @@ Pseudo code for rock,paper,scissors:
 
 // Step 7: Call the game function to start the game
 
-here you can check out the game:
+here you can check out the game: https://mercedeszafeher.github.io/vanilla-js-game/
